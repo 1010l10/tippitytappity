@@ -1,5 +1,8 @@
 # tippitytappity
 
+[![C++ CI](https://github.com/1010l10/FirstIO/actions/workflows/actions.yml/badge.svg)](https://github.com/1010l10/FirstIO/actions/workflows/actions.yml)
+# FirstIO
+
 tippitytappity is a program to practice typing
 
 ## Getting Started
